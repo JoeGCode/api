@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Portfolio",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/portfolio.png",
+    "demoLink": "https://joegarofano.dev",
+    "githubLink": "",
+    "description": "My main portfolio site. Built using Next JS and Tailwind CSS"
+  },
+  {
+    "id": 2,
+    "name": "TrailerFlix",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/trailerflix.png",
+    "demoLink": "https://trailerflix.joegarofano.dev/",
+    "githubLink": "https://github.com/JoeGCode/TrailerFlix",
+    "description": "A Netflix-like UI for viewing film trailers. Built using React JS and Tailwind CSS"
+  },
+  {
+    "id": 3,
+    "name": "Pokedex",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/pokedex.png",
+    "demoLink": "https://pokedex.joegarofano.dev/",
+    "githubLink": "https://github.com/JoeGCode/Pokedex-React",
+    "description": "A simple Pokedex for viewing and getting information on Pokemon. Built using React JS, Typescript and Tailwind CSS"
+  },
+  {
+    "id": 4,
+    "name": "Simple Weather",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/weather.png",
+    "demoLink": "https://weather.joegarofano.dev/",
+    "githubLink": "https://github.com/JoeGCode/Simple-Weather",
+    "description": "A simple weather app built using React JS and Tailwind CSS"
+  }
+]
