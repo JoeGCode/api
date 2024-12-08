@@ -3,18 +3,21 @@
     "id": 1,
     "name": "LinkedIn",
     "type": "linkedin",
-    "link": "https://www.linkedin.com/in/joe-garofano-8086a0168/"
+    "link": "https://www.linkedin.com/in/joe-garofano-8086a0168/",
+    "color": "#0071ae"
   },
   {
     "id": 2,
     "name": "Github",
     "type": "github",
-    "link": "https://github.com/JoeGCode?tab=repositories"
+    "link": "https://github.com/JoeGCode?tab=repositories",
+    "color": "#0d1117"
   },
   {
     "id": 3,
     "name": "Email",
     "type": "email",
-    "link": "mailto:jecgarofano@gmail.com"
+    "link": "mailto:jecgarofano@gmail.com",
+    "color": "#de4032"
   }
 ]
