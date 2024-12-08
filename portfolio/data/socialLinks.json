@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "LinkedIn",
+    "type": "linkedin",
+    "link": "https://www.linkedin.com/in/joe-garofano-8086a0168/"
+  },
+  {
+    "id": 2,
+    "name": "Github",
+    "type": "github",
+    "link": "https://github.com/JoeGCode?tab=repositories"
+  },
+  {
+    "id": 3,
+    "name": "Mail",
+    "type": "mail",
+    "link": "mailto:jecgarofano@gmail.com"
+  }
+]
