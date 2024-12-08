@@ -30,5 +30,13 @@
     "demoLink": "https://weather.joegarofano.dev/",
     "githubLink": "https://github.com/JoeGCode/Simple-Weather",
     "description": "A simple weather app built using React JS and Tailwind CSS"
+  },
+  {
+    "id": 5,
+    "name": "PokeCard Portfolio",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/pokecard-portfolio.png",
+    "demoLink": "https://pokecard-portfolio.joegarofano.dev/",
+    "githubLink": "https://github.com/JoeGCode/pokecard_portfolio",
+    "description": "A portfolio site in the style of Pokemon cards. Built using Next JS and Tailwind CSS"
   }
 ]
