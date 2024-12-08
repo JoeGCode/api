@@ -13,8 +13,8 @@
   },
   {
     "id": 3,
-    "name": "Mail",
-    "type": "mail",
+    "name": "Email",
+    "type": "email",
     "link": "mailto:jecgarofano@gmail.com"
   }
 ]
