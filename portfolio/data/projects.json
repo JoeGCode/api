@@ -12,8 +12,8 @@
     "name": "TrailerFlix",
     "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/trailerflix.png",
     "demoLink": "https://trailerflix.joegarofano.dev/",
-    "githubLink": "https://github.com/JoeGCode/TrailerFlix",
-    "description": "A Netflix-like UI for viewing film trailers. Built using React JS and Tailwind CSS"
+    "githubLink": "https://github.com/JoeGCode/TrailerFlix-NextJS",
+    "description": "A Netflix-like UI for viewing film trailers. Built using Next JS and Tailwind CSS"
   },
   {
     "id": 3,
