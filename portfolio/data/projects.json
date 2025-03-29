@@ -13,7 +13,7 @@
     "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/trailerflix.png",
     "demoLink": "https://trailerflix.joegarofano.dev/",
     "githubLink": "https://github.com/JoeGCode/TrailerFlix-NextJS",
-    "description": "A Netflix-like UI for viewing film trailers. Built using Next.js and Tailwind CSS"
+    "description": "A Netflix-like UI for viewing film trailers. Built using Next.js and Tailwind CSS, with Supabase as a backend"
   },
   {
     "id": 3,
