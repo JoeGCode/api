@@ -9,34 +9,42 @@
   },
   {
     "id": 2,
-    "name": "TrailerFlix",
-    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/trailerflix.png",
-    "demoLink": "https://trailerflix.joegarofano.dev/",
-    "githubLink": "https://github.com/JoeGCode/TrailerFlix-NextJS",
-    "description": "A Netflix-like UI for viewing film trailers. Built using Next.js and Tailwind CSS, with Supabase as a backend"
-  },
-  {
-    "id": 3,
-    "name": "Pokedex",
-    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/pokedex.png",
-    "demoLink": "https://pokedex.joegarofano.dev/",
-    "githubLink": "https://github.com/JoeGCode/Pokedex-React",
-    "description": "A simple Pokedex for viewing and getting information on Pokemon. Built using React JS, Typescript and Tailwind CSS"
-  },
-  {
-    "id": 4,
-    "name": "Simple Weather",
-    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/weather.png",
-    "demoLink": "https://weather.joegarofano.dev/",
-    "githubLink": "https://github.com/JoeGCode/Simple-Weather",
-    "description": "A simple weather app built using React JS and Tailwind CSS"
-  },
-  {
-    "id": 5,
     "name": "PokeCard Portfolio",
     "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/pokecard-portfolio.png",
     "demoLink": "https://pokecard-portfolio.joegarofano.dev/",
     "githubLink": "https://github.com/JoeGCode/pokecard_portfolio",
     "description": "A portfolio site in the style of Pokemon cards. Built using Next.js and Tailwind CSS"
+  },
+  {
+    "id": 3,
+    "name": "ConQuest",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/conquest.png",
+    "demoLink": "https://conquest.protozone.dev/",
+    "githubLink": "",
+    "description": "A way to organise your comic convention schedules. Built using Next.js and Tailwind CSS, with Supabase as a backend"
+  },
+  {
+    "id": 4,
+    "name": "TrailerFlix",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/trailerflix.png",
+    "demoLink": "https://trailerflix.protozone.dev/",
+    "githubLink": "https://github.com/JoeGCode/TrailerFlix-NextJS",
+    "description": "A Netflix-like UI for viewing film trailers. Built using Next.js and Tailwind CSS, with Supabase as a backend"
+  },
+  {
+    "id": 5,
+    "name": "Pokedex",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/pokedex.png",
+    "demoLink": "https://pokedex.protozone.dev/",
+    "githubLink": "https://github.com/JoeGCode/Pokedex-React",
+    "description": "A simple Pokedex for viewing and getting information on Pokemon. Built using React JS, Typescript and Tailwind CSS"
+  },
+  {
+    "id": 6,
+    "name": "Simple Weather",
+    "image": "https://joegcode.github.io/api/portfolio/images/project_screenshots/weather.png",
+    "demoLink": "https://simple-weather.protozone.dev/",
+    "githubLink": "https://github.com/JoeGCode/Simple-Weather",
+    "description": "A simple weather app built using React JS and Tailwind CSS"
   }
 ]
