@@ -3,42 +3,49 @@
     "id": 1,
     "name": "HTML",
     "color": "#E34C26",
-    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/HTML.svg"
+    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/HTML.svg",
+    "showOnSkillPage": true
   },
   {
     "id": 2,
     "name": "CSS",
     "color": "#264de4",
-    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/CSS.svg"
+    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/CSS.svg",
+    "showOnSkillPage": true
   },
   {
     "id": 3,
     "name": "Javascript",
     "color": "#f0db4f",
-    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/javascript.png"
+    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/javascript.png",
+    "showOnSkillPage": true
   },
   {
     "id": 4,
     "name": "React",
     "color": "#61dafb",
-    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/ReactLogo.svg"
+    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/ReactLogo.svg",
+    "showOnSkillPage": true
   },
   {
     "id": 5,
     "name": "Tailwind",
     "color": "#38bdf8",
-    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/Tailwind.svg"
+    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/Tailwind.svg",
+    "showOnSkillPage": true
   },
   {
     "id": 6,
     "name": "C#",
     "color": "#6a1577",
-    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/CSharp.svg"
+    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/CSharp.svg",
+    "showOnSkillPage": true
   },
   {
     "id": 7,
     "name": "PHP",
     "color": "#777bb4",
-    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/PHP.svg"
+    "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/PHP.svg",
+    "showOnSkillPage": true
   }
 ]
