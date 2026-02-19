@@ -6,7 +6,7 @@
     "demoLink": "https://joegarofano.dev",
     "githubLink": "",
     "description": "My main portfolio site. Built using Next.js and Tailwind CSS",
-    "skillIds": [5]
+    "skillIds": [8, 9, 5]
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "demoLink": "https://pokecard-portfolio.joegarofano.dev/",
     "githubLink": "https://github.com/JoeGCode/pokecard_portfolio",
     "description": "A portfolio site in the style of Pokemon cards. Built using Next.js and Tailwind CSS",
-    "skillIds": [5]
+    "skillIds": [8, 9, 5]
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "demoLink": "https://conquest.protozone.dev/",
     "githubLink": "",
     "description": "A way to organise your comic convention schedules. Built using Next.js and Tailwind CSS, with Supabase as a backend",
-    "skillIds": [5]
+    "skillIds": [8, 9, 5, 10]
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "demoLink": "https://trailerflix.protozone.dev/",
     "githubLink": "https://github.com/JoeGCode/TrailerFlix-NextJS",
     "description": "A Netflix-like UI for viewing film trailers. Built using Next.js and Tailwind CSS, with Supabase as a backend",
-    "skillIds": [5]
+    "skillIds": [8, 9, 5, 10]
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "demoLink": "https://pokedex.protozone.dev/",
     "githubLink": "https://github.com/JoeGCode/Pokedex-React",
     "description": "A simple Pokedex for viewing and getting information on Pokemon. Built using React JS, Typescript and Tailwind CSS",
-    "skillIds": [4, 5]
+    "skillIds": [4, 5, 9]
   },
   {
     "id": 6,
@@ -51,6 +51,6 @@
     "demoLink": "https://simple-weather.protozone.dev/",
     "githubLink": "https://github.com/JoeGCode/Simple-Weather",
     "description": "A simple weather app built using React JS and Tailwind CSS",
-    "skillIds": [4, 5]
+    "skillIds": [4, 5, 9]
   }
 ]
