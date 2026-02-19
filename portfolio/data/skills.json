@@ -47,5 +47,12 @@
     "color": "#777bb4",
     "imageURL": "https://joegcode.github.io/api/portfolio/images/skill_icons/PHP.svg",
     "showOnSkillPage": true
+  },
+  {
+    "id": 8,
+    "name": "Next.js",
+    "color": "#242938",
+    "imageURL": "https://skillicons.dev/icons?i=nextjs",
+    "showOnSkillPage": false
   }
 ]
